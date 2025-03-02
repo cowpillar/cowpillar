@@ -1,16 +1,22 @@
-## Hi there 👋
+hi there 👋
 
-<!--
-**cowpillar/cowpillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+originally wanted to pursue **multimedia or fine arts**, but somehow ended up in compsci.  
+no regrets... probably.  
 
-Here are some ideas to get you started:
+**cowpillar**/**cheu** is a pseudonym—most of my projects are private or tied to my IRL work,  
+so i can't really share them 😞  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i do, however, post some projects here from time to time,  
+mostly **software** or **game development** stuff!  
+
+---
+
+### let's connect!
+- portfolio: [cowpillar.github.io](https://cowpillar.github.io/portfolio/)
+- discord: [@aacheuu](https://discord.com/users/1097169174939312128)
+- roblox: [@cowpillar](https://www.roblox.com/users/108284393/profile)
+- twitter/x: [@aacheuu_](https://x.com/aacheuu_)
+- youtube: [@cowpillar](https://www.youtube.com/@cowpillar)
+&nbsp;  
+&nbsp; 
+- buy me a coffee? [@ireumichu](https://www.paypal.com/paypalme/ireumichu)  
