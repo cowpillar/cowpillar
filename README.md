@@ -1,6 +1,6 @@
 hi there 👋 <img height=16 align="right" src="https://komarev.com/ghpvc/?username=cowpillar&color=blueviolet&style=flat-square"/></span>
 
-i originally wanted to pursue **multimedia** or **fine arts**, but somehow ended up in compsci.  
+i originally wanted to pursue **multimedia** or **fine arts**, but somehow ended up in **compsci**.  
 no regrets... probably 😅  
 
 many of my projects are private or tied to my IRL work.  
