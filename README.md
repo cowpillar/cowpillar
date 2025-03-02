@@ -3,7 +3,7 @@ hi there 👋 <img height=16 align="right" src="https://komarev.com/ghpvc/?usern
 i originally wanted to pursue **multimedia** or **fine arts**, but somehow ended up in compsci.  
 no regrets... probably.  
 
-many of my projects are private or tied to my IRL work,  
+many of my projects are private or tied to my IRL work.  
 i do, however, post some here—mostly **software** or **game development** stuff!  
 
 ---
@@ -14,6 +14,4 @@ i do, however, post some here—mostly **software** or **game development** stuf
 - roblox: [@cowpillar](https://www.roblox.com/users/108284393/profile)
 - twitter/x: [@aacheuu_](https://x.com/aacheuu_)
 - youtube: [@cowpillar](https://www.youtube.com/@cowpillar)
-&nbsp;  
-&nbsp; 
 - buy me a coffee? [@ireumichu](https://www.paypal.com/paypalme/ireumichu)  
