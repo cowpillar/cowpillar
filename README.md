@@ -3,7 +3,7 @@ hi there 👋 <img height=16 align="right" src="https://komarev.com/ghpvc/?usern
 i originally wanted to pursue **multimedia** or **fine arts**, but somehow ended up in **compsci**.  
 no regrets... probably 😅  
 
-many of my projects are private or tied to my irl work.  
+a lot of my projects are private or tied to my irl work.  
 i do, however, post some here—mostly **software** or **game development** stuff!  
 
 ---
