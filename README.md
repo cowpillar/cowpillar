@@ -3,12 +3,10 @@ hi there 👋
 i originally wanted to pursue **multimedia** or **fine arts**, but somehow ended up in compsci.  
 no regrets... probably.  
 
-**cowpillar**/**cheu** is a pseudonym—most of my projects are private or tied to my IRL work,  
-so i can't really share them 😞  
+many of my projects are private or tied to my IRL work,  
+i do, however, post some projects here-mostly **software** or **game development** stuff!  
 
-i do, however, post some projects here from time to time,  
-mostly **software** or **game development** stuff!  
-
+![](https://komarev.com/ghpvc/?username=cowpillar&color=blueviolet&style=flat-square)
 ---
 
 ### let's connect!
