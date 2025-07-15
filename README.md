@@ -12,6 +12,6 @@ i do, however, post some here. mostly **software** or **game development** stuff
 - portfolio: [cowpillar.github.io](https://cowpillar.github.io/)
 - discord: [@.cheu](https://discord.com/users/1097169174939312128)
 - roblox: [@cowpillar](https://www.roblox.com/users/108284393/profile)
-- twitter/x: [@`_cheu_`](https://x.com/aacheuu_)
+- twitter/x:[`@_cheu_`](https://x.com/_cheu_)
 - youtube: [@cowpillar](https://www.youtube.com/@cowpillar)
 - buy me a coffee? [@ireumichu](https://www.paypal.com/paypalme/ireumichu)  
