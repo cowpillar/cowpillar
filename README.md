@@ -20,9 +20,9 @@
 ---
 
 ### let's connect!
-- portfolio: [cowpillar.github.io](https://cowpillar.github.io/)
+- buy me a coffee? [@ireumichu](https://ko-fi.com/ireumichu)
 - discord: [@aacheuu](https://discord.com/users/1097169174939312128)
 - roblox: [@cowpillar](https://www.roblox.com/users/108284393/profile)
-- twitter/x: [@_aacheuu](https://x.com/_aacheuu)
+- portfolio: [cowpillar.github.io](https://cowpillar.github.io/)
+- shop: [cowpillar.mysellauth](https://cowpillar.mysellauth.com/)
 - youtube: [@cowpillar](https://www.youtube.com/@cowpillar)
-- buy me a coffee? [@ireumichu](https://www.paypal.com/paypalme/ireumichu)  
