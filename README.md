@@ -20,7 +20,7 @@
 ---
 
 ### let's connect!
-- buy me a coffee? [ireumichu](https://ko-fi.com/ireumichu)
+- buy me a coffee? [@ireumichu](https://ko-fi.com/ireumichu)
 - discord: [@aacheuu](https://discord.com/users/1097169174939312128)
 - portfolio: [cowpillar.github.io](https://cowpillar.github.io/)
 - roblox: [@cowpillar](https://www.roblox.com/users/108284393/profile)
