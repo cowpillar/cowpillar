@@ -20,9 +20,9 @@
 ---
 
 ### let's connect!
-- buy me a coffee? [@ireumichu](https://ko-fi.com/ireumichu)
-- discord: [@aacheuu](https://discord.com/users/1097169174939312128)
-- roblox: [@cowpillar](https://www.roblox.com/users/108284393/profile)
+- buy me a coffee? [ireumichu](https://ko-fi.com/ireumichu)
+- discord: [cowpillar research department](https://discord.gg/ZdwPe8JKCC)
 - portfolio: [cowpillar.github.io](https://cowpillar.github.io/)
+- roblox: [@cowpillar](https://www.roblox.com/users/108284393/profile)
 - shop: [cowpillar.mysellauth](https://cowpillar.mysellauth.com/)
 - youtube: [@cowpillar](https://www.youtube.com/@cowpillar)
